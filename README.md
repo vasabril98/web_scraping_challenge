@@ -57,11 +57,11 @@ Open the Jupyter Notebook in the starter code folder named ```part_2_mars_weathe
    * Find the average minimum daily temperature for all of the months.
    * Plot the results as a bar chart.
    * Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
-   * Find the average daily atmospheric pressure of all the months.
-   * Plot the results as a bar chart.
+     * Find the average daily atmospheric pressure of all the months.
+     * Plot the results as a bar chart.
    * About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
-   * Consider how many days elapse on Earth in the time that Mars circles the Sun once.
-   * Visually estimate the result by plotting the daily minimum temperature.
+     * Consider how many days elapse on Earth in the time that Mars circles the Sun once.
+     * Visually estimate the result by plotting the daily minimum temperature.
 6. Export the DataFrame to a CSV file.
 
 ## References
